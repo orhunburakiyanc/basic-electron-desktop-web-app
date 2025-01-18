@@ -40,3 +40,10 @@ Follow these steps to set up the application:
 3. **Install dependencies**:
    ```bash
    npm start   
+
+## Splash Screen 
+<img width="468" alt="image" src="https://github.com/user-attachments/assets/b3a11103-3f84-4e2e-8142-641d1c64716c" />
+
+
+## Main Page
+<img width="1710" alt="image" src="https://github.com/user-attachments/assets/a64f55f1-4961-4e7b-a0f1-76e856f0b402" />

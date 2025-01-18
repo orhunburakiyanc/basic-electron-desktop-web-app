@@ -17,7 +17,7 @@ const createWindow = () => {
 
 const createSplashWindow = () => {
     splashWindow = new BrowserWindow({
-        width: 400,
+        width: 250,
         height: 300,
         frame: false, // Remove the window frame
         alwaysOnTop: true, // Keep the splash window on top
